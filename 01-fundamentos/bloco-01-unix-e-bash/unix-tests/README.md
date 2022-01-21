@@ -176,10 +176,11 @@ SQL</span></code></pre></div>
       .
     </div>
     <div class="pt-1 pb-1">
+       <br>
        <b>
         Para os próximos exercícios, crie um novo arquivo chamado 
 <code class="inline">phrases.txt</code>         e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
-      </b>
+      </b> <br>
     </div>
   </li>
   <li>
