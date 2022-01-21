@@ -95,7 +95,7 @@
 <code class="inline">skills.txt</code>    :
   </strong>
 </div>
-<div class="block-code"><button class="copy-code-button" type="button">Copiar</button><pre class="language-sh" tabindex="0"><code class="language-sh"><span class="token output">Internet
+<div class="block-code"><button class="copy-code-button" type="button">Skills.txt</button><pre class="language-sh" tabindex="0"><code class="language-sh"><span class="token output">Internet
 Unix
 Bash
 HTML
