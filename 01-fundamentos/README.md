@@ -123,6 +123,4 @@
   </li>
 </ul>
 <hr class="thin">
-<h2 id="vamos-comecar" class="title-section">
-  Vamos começar!
-</h2>
+
