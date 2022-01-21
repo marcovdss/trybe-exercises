@@ -1,5 +1,5 @@
 # Trybe
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Marcos Sobrinho](https://www.linkedin.com/in/marcosvdss/)_enquanto estudava na Trybe.
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Marcos Sobrinho](https://www.linkedin.com/in/marcosvdss/) enquanto estudava na Trybe.
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
@@ -13,7 +13,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [X]1-3: Unix & Bash - Parte 1
 - [X]1-4: Unix & Bash - Parte 2
 
-<b>Bloco 2:
+<b>Bloco 2:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-02-git-github-e-internet"> Git & Github e Internet></a></b>/<br>
 - [x]2-1: Git & GitHub - O que é e para que serve
 - [ ]2-2: Git & GitHub - Entendendo os comandos
 - [ ]2-3: Internet - Entendendo como ela funciona
