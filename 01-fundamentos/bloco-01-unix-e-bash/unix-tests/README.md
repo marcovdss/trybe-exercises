@@ -88,3 +88,38 @@
     </div>
   </li>
 </ol>
+<div class="pt-1 pb-1">
+    
+  <strong>
+    Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado 
+<code class="inline">skills.txt</code>    :
+  </strong>
+</div>
+<div class="block-code"><button class="copy-code-button" type="button">Copiar</button><pre class="language-sh" tabindex="0"><code class="language-sh"><span class="token output">Internet
+Unix
+Bash
+HTML
+CSS
+JavaScript
+React
+SQL</span></code></pre></div>
+<ol start="14">
+  <li>
+    <div class="pt-1 pb-1">
+      Mostre na tela as 5 primeiras skills do arquivo 
+<code class="inline">skills.txt</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Mostre na tela as 4 últimas skills do arquivo 
+<code class="inline">skills.txt</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Apague todos os arquivos que terminem em 
+<code class="inline">.txt</code>      .
+    </div>
+  </li>
+</ol>
