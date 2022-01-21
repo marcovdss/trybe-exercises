@@ -1,2 +1,3 @@
-# trybe-exercises
-Repositório que armazena todos os exercícios desenvolvidos durante o curso de Desenvolvimento de Software da Trybe.
+# Trybe
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por <a href=https://www.linkedin.com/in/marcosvdss/> Marcos Vinicius da Silva Sobrinho</a> enquanto estudava na Trybe rocket
+
