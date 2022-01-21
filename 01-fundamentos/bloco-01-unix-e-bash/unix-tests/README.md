@@ -227,3 +227,10 @@ SQL</span></code></pre></div>
 <code class="inline">txt</code>      .
     </div>
   </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Acesse o manual do comando 
+<code class="inline">ls</code>      .
+    </div>
+  </li>
+</ol>
