@@ -6,8 +6,8 @@ Os principais pontos abordados serão:
 
 <ul>
 <li>Quais são seus principais componentes?</li>
-Quais são suas variações?
-Arquivos e processos, o que são?
-Qual sua estrutura de diretórios?
-O que é o terminal?
-Comandos executados no Shell.
+<li>Quais são suas variações?</li>
+<li>Arquivos e processos, o que são?</li>
+<li>Qual sua estrutura de diretórios?</li>
+<li>O que é o terminal?</li>
+<li>Comandos executados no Shell.</li>
