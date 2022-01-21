@@ -136,7 +136,7 @@ SQL</span></code></pre></div>
     </a>
   </li>
 </ol>
-<div class="block-code"><button class="copy-code-button" type="button">Copiar</button><pre class="language-sh" tabindex="0"><code class="language-sh">
+<div class="block-code"><pre class="language-sh" tabindex="0"><code class="language-sh">
 <span class="token output">curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"</span></code></pre></div>
 <ol start="2">
   <li>
