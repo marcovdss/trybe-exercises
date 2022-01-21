@@ -8,4 +8,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 <h2>Introdução - Desenvolvimento Web</h2>
 
 <b>Bloco 1:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-01-unix-e-bash"> Unix & Bash </a></b><br>
-1.3
+<ul class="contains-task-list">
+<li calss="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 1-3: <em>Fundamentos </em></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 1-3: <em>Unix &amp; Bash - Part 1</em></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 1-4: <em>Unix &amp; Bash - Part 2</em></li>
+
+</ul>
