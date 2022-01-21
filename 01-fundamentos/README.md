@@ -126,9 +126,3 @@
 <h2 id="vamos-comecar" class="title-section">
   Vamos começar!
 </h2>
-<div class="pt-1 pb-1">
-  
-<a class="shadow btn-green btn btn-block mt-5" href="/course/fundamentals/unix">Próximo passo: Introdução - Unix &amp; Shell 🚀</a>
-
-</div>
-<div class="content-spacement"></div></div></div>
