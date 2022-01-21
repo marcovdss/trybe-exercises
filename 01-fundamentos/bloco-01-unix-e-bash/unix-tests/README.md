@@ -123,3 +123,107 @@ SQL</span></code></pre></div>
     </div>
   </li>
 </ol>
+--------------------------------------------------------------------------------
+<div class=" col-span-12 content-section-box"><h3 id="parte-ii-manipulacao-and-busca" class="title-section">
+  Parte II - Manipulação &amp; Busca
+</h3>
+<ol>
+  <li>
+    Na pasta 
+<code class="inline">unix_tests</code>    , baixe um arquivo com os nomes de todos os países do mundo utilizando o comando 
+    <a class="external-link" href="https://linux.die.net/man/1/curl" target="_blank" rel="noopener noreferrer">
+      curl:
+    </a>
+  </li>
+</ol>
+<div class="block-code"><button class="copy-code-button" type="button">Copiar</button><pre class="language-sh" tabindex="0"><code class="language-sh">
+<span class="token output">curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"</span></code></pre></div>
+<ol start="2">
+  <li>
+    <div class="pt-1 pb-1">
+      Mostre todo o conteúdo do arquivo 
+<code class="inline">countries.txt</code>       na tela.
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Mostre o conteúdo de 
+<code class="inline">countries.txt</code>      , página por página, até encontrar a 
+<code class="inline">Zambia</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Mostre novamente o conteúdo de 
+<code class="inline">countries.txt</code>       página por página, mas agora utilize um comando para buscar por 
+<code class="inline">Zambia</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Busque por 
+<code class="inline">Brazil</code>       no 
+<code class="inline">countries.txt</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Busque novamente por 
+<code class="inline">brazil</code>      , mas agora utilizando o 
+      <em>
+        lower case
+      </em>
+      .
+    </div>
+    <div class="pt-1 pb-1">
+       
+      <strong>
+        Para os próximos exercícios, crie um novo arquivo chamado 
+<code class="inline">phrases.txt</code>         e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
+      </strong>
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Busque pelas frases que não contenham a palavra 
+<code class="inline">fox</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Conte o número de palavras do arquivo 
+<code class="inline">phrases.txt</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Conte o número de linhas do arquivo 
+<code class="inline">phrases.txt</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Crie os arquivos 
+<code class="inline">empty.tbt</code>       e 
+<code class="inline">empty.pdf</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Liste todos os arquivos do diretório 
+<code class="inline">unix_tests</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Liste todos os arquivos que terminem com 
+<code class="inline">txt</code>      .
+    </div>
+  </li>
+  <li>
+    <div class="pt-1 pb-1">
+      Liste todos os arquivos que terminem com 
+<code class="inline">tbt</code>       ou 
+<code class="inline">txt</code>      .
+    </div>
+  </li>
