@@ -7,5 +7,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 <h2>Introdução - Desenvolvimento Web</h2>
 
-Bloco 1:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-01-unix-e-bash">Unix & Bash </a><br>
+<b>Bloco 1:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-01-unix-e-bash">Unix & Bash </a></b><br>
 1.3
