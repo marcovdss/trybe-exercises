@@ -16,4 +16,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 <b>Bloco 2:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-02-git-github-e-internet"> Git & Github e Internet</a></b><br>
 - [x]2-1: Git & GitHub - O que é e para que serve
 - [X]2-2: Git & GitHub - Entendendo os comandos
-- [X]2-3: Internet - Entendendo como ela funciona       
+- [X]2-3: Internet - Entendendo como ela funciona
+
+<b>Bloco 3:
