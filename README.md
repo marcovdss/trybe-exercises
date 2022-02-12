@@ -8,21 +8,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 # Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 <b>Bloco 1:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-01-unix-e-bash"> Unix & Bash </a>:white_check_mark:</b><br> 
-- [X]1-3: Fundamentos do Desenvolvimento Web
-- [X]1-3: Introdução - Unix & Shell
-- [X]1-3: Unix & Bash - Parte 1
-- [X]1-4: Unix & Bash - Parte 2
+- [X] 1-3: Fundamentos do Desenvolvimento Web
+- [X] 1-3: Introdução - Unix & Shell
+- [X] 1-3: Unix & Bash - Parte 1
+- [X] 1-4: Unix & Bash - Parte 2
 
 <b>Bloco 2:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-02-git-github-e-internet"> Git & Github e Internet</a>:white_check_mark:</b><br>
-- [x]2-1: Git & GitHub - O que é e para que serve
-- [X]2-2: Git & GitHub - Entendendo os comandos
-- [X]2-3: Internet - Entendendo como ela funciona
+- [x] 2-1: Git & GitHub - O que é e para que serve
+- [X] 2-2: Git & GitHub - Entendendo os comandos
+- [X] 2-3: Internet - Entendendo como ela funciona
 
 <b>Bloco 3:<a href="https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-03-introducao-a-html-e-css">Introdução à HTML e CSS</a></b><br>
-- [X]3-1: Introdução
-- [X]3-1: HTML & CSS - Estruturas de Paginas
-- [X]3-2: Primeiros Passos em CSS
-- [X]3-3: Seletores e Posicionamentos
+- [X] 3-1: Introdução
+- [X] 3-1: HTML & CSS - Estruturas de Paginas
+- [X] 3-2: Primeiros Passos em CSS
+- [X] 3-3: Seletores e Posicionamentos
 - [X] 3-4: HTML Semântico
 - [X] 3-5: Projeto - Lessons Learned
 
