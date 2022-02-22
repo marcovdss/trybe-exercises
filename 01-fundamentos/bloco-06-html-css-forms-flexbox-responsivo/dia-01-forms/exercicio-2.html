@@ -1,0 +1,30 @@
+<!-- Parte IV - Entenda o prevent default -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form>
+    Email: <input type="text" name="email" type="text" placeholder="Digite seu email" autocomplete="off" required autofocus></br>
+    Senha: <input type="password" name="senha" type="text" placeholder="Digite sua senha" required></br>
+    Lembre-me: <input type="checkbox" name="lembrar" type="text"></br>
+    <button type="submit">Entrar</button>
+  </form>
+  <script src="scriptex2.js"></script>
+</body>
+</html>
+<!-- 1 - Adicione um evento click no elemento a que possui o id href . 
+Na função do evento, implemente o método .preventDefault() para previnir o comportamento padrão do elemento. 
+Ou seja, ao clicar no link, nada deve acontecer. -->
+<!-- 
+2 - Adicione um evento click no elemento checkbox que possui o id input-checkbox . 
+Na função do evento, implemente o método .preventDefault() para previnir o comportamento padrão do elemento. 
+Ou seja, ao clicar na caixinha, nada deve acontecer. -->
+<!--3 - Adicione um evento keypress no elemento input type="text" que possui o id input-text . 
+Na função do evento, implemente o método .preventDefault() de forma que somente o caractere a 
+(letra 'a' minúscula) possa ser digitado na caixinha. ( dica: para capturar a tecla digitada, utilize o event.key ) -->
+
