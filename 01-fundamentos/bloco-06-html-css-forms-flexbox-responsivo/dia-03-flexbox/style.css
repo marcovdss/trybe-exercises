@@ -24,6 +24,7 @@
     display: flex;
     justify-content: space-around;
     width: 100%;
+    margin: auto auto 20px auto;
 }
 
 h1 {
@@ -48,7 +49,7 @@ h3:hover {
 }
 
 .tech-box {
-    margin-left: 15%;
+    margin: 0 auto 20% 15%;
     width: 70%;
     display: flex;
     justify-content: center;
@@ -78,6 +79,7 @@ h3:hover {
     flex-wrap: wrap;
     width: 250;
     height: 250px;
+    flex-grow: 1;
 }
 
 footer {
@@ -85,4 +87,6 @@ footer {
     align-items: center;
     display: flex;
     justify-content: center;
+    background-color: rgb(58, 57, 57);
+    margin: auto
 }
