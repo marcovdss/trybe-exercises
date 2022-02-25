@@ -39,9 +39,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [X] 5-2: JavaScript - Trabalhando com elementos
 - [X] 5-3: JavaScript - Eventos
 - [x] 5-4: JavaScript - Web Storage
-- [] 5-5: Fundamentos - JavaScript - Projetos
-- [] 5-5: Projeto - Arte com Pixels
-- [] 5-6: Projeto - Lista de tarefas
-- [] 5-7: (Bônus) Projeto - Meme Generator
-- [] 5-7: (Bônus) Projeto - Adivinhe a Cor
-- [] 5-7: (Bônus) Projeto - Carta Misteriosa
+- [x] 5-5: Fundamentos - JavaScript - Projetos
+- [x] 5-5: Projeto - Arte com Pixels
+- [x] 5-6: Projeto - Lista de tarefas
+- [] 5-7: (Bônus) Projeto - Meme Generator :hourglass_flowing_sand:
+- [x] 5-7: (Bônus) Projeto - Adivinhe a Cor
+- [x] 5-7: (Bônus) Projeto - Carta Misteriosa
+
+<b>Bloco 06: <a href=https://github.com/marcovdss/trybe-exercises/tree/main/01-fundamentos/bloco-06-html-css-forms-flexbox-responsivo>
+HTML e CSS: Forms, Flexbox e Responsivo </a></b><br>
+- [x] 6-1: HTML & CSS: Forms
+- [x] 6-2: Bibliotecas JavaScript e Framework CSS
+- [x] 6-3: CSS Flexbox Parte 1
+- [x] 6-4: CSS Flexbox Parte 2
+- [x] 6-5: CSS Responsivo - Mobile First
+- [] 6-6: Projeto - Tribewarts
