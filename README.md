@@ -53,4 +53,4 @@ HTML e CSS: Forms, Flexbox e Responsivo </a></b><br>
 - [x] 6-3: CSS Flexbox Parte 1
 - [x] 6-4: CSS Flexbox Parte 2
 - [x] 6-5: CSS Responsivo - Mobile First
-- [] 6-6: Projeto - Tribewarts
+- [X] 6-6: Projeto - Tribewarts
